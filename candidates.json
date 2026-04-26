@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Rahul Sharma",
+    "skills": ["Python", "SQL", "APIs"],
+    "experience": 3
+  },
+  {
+    "name": "Ayesha Khan",
+    "skills": ["Java", "Spring", "Microservices"],
+    "experience": 2
+  },
+  {
+    "name": "Arjun Reddy",
+    "skills": ["Python", "Machine Learning", "Pandas"],
+    "experience": 4
+  },
+  {
+    "name": "Sneha Iyer",
+    "skills": ["JavaScript", "React", "Node.js"],
+    "experience": 2
+  }
+]
